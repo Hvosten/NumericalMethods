@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1504114413 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\numeryczna\inrerpolacja_3\main.cpp
+	<iostream>
+	"punkt.h"
+	<windows.h>
+	<conio.h>
+	<math.h>
+
+1504107385 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\numeryczna\inrerpolacja_3\punkt.cpp
+	<iostream>
+	"punkt.h"
+
+1504045528 d:\studia\archiwum\programowanie c++\moje_programy\c++\numeryczna\inrerpolacja_3\punkt.h
+	<iostream>
+

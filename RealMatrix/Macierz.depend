@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1522401394 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\numeryczna\macierz\macierz.cpp
+	<iostream>
+	"macierz.h"
+	<fstream>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+	<windows.h>
+
+1519326789 d:\studia\archiwum\programowanie c++\moje_programy\c++\numeryczna\macierz\macierz.h
+	<iostream>
+
+1522065873 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\numeryczna\macierz\main.cpp
+	<iostream>
+	"macierz.h"
+	<iomanip>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	<math.h>
+

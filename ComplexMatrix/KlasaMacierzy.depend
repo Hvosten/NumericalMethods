@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1523468681 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\klasamacierzy\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"MacierzProstokatna.h"
+	"MacierzKwadratowa.h"
+
+1523392569 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\klasamacierzy\macierzprostokatna.cpp
+	"MacierzProstokatna.h"
+	"MacierzKwadratowa.h"
+	<iostream>
+	<iomanip>
+	<windows.h>
+
+1523123587 d:\studia\archiwum\programowanie c++\moje_programy\c++\klasamacierzy\macierzprostokatna.h
+	<complex>
+
+1523392569 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\klasamacierzy\macierzkwadratowa.cpp
+	"MacierzKwadratowa.h"
+	<iostream>
+	<iomanip>
+	<windows.h>
+
+1523205588 d:\studia\archiwum\programowanie c++\moje_programy\c++\klasamacierzy\macierzkwadratowa.h
+	"MacierzProstokatna.h"
+
